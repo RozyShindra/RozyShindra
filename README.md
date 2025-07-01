@@ -12,6 +12,7 @@
 - **Big Data:** Dask, PySpark
 - **Tools:** Git, Docker, VSCode, Linux
 
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/rozy-shindra) 
 <!--
 ## 📌 Featured Projects
 - 🔐 **Quantum NLP for Privacy-Preserving Text Classification**  
