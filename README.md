@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Rozy!
 
-🔬 AI/ML Engineer | NLP & Computer Vision | Quantum NLP Researcher  
-🧠 Passionate about solving real-world problems using deep learning, generative AI, and quantum computing.
+AI/ML Engineer | NLP & Computer Vision | Quantum NLP Researcher  
+Passionate about solving real-world problems using deep learning, generative AI, and quantum computing.
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages:** Python, C++, SQL
 - **ML/DL:** PyTorch, TensorFlow, scikit-learn
 - **NLP:** HuggingFace Transformers, Spark NLP, Dask, Spacy
@@ -12,7 +12,7 @@
 - **Big Data:** Dask, PySpark
 - **Tools:** Git, Docker, VSCode, Linux
 
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/rozy-shindra) 
+Let's connect on [LinkedIn](https://www.linkedin.com/in/rozy-shindra) 
 <!--
 ## 📌 Featured Projects
 - 🔐 **Quantum NLP for Privacy-Preserving Text Classification**  
