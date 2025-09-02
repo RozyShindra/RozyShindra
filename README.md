@@ -7,7 +7,8 @@ Passionate about solving real-world problems using deep learning, generative AI,
 - **Languages:** Python, C++, SQL
 - **ML/DL:** PyTorch, TensorFlow, scikit-learn
 - **NLP:** HuggingFace Transformers, Spark NLP, Dask, Spacy
-- **CV:** YOLO, OpenCV
+- **CV:** YOLO, OpenCV, ViT (Vision Transformers)
+- **Generative AI:** Generative Adversarial Network (GAN), Variational Auto Encoder (VAE), LLMs, VLMs
 - **Quantum:** PennyLane, Lambeq, Qiskit
 - **Big Data:** Dask, PySpark
 - **Tools:** Git, Docker, VSCode, Linux
