@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rozy!  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)]([https://your-portfolio-link.com](https://rozyshindra.github.io/rozy-nit-surat/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)]([https://rozyshindra.github.io/rozy-nit-surat/]
 
 AI/ML Engineer | NLP & Computer Vision | Quantum NLP Researcher  
 Passionate about solving real-world problems using deep learning, generative AI, and quantum computing.
