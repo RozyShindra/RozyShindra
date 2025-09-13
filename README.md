@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rozy!
+# 👋 Hi, I'm [Rozy](https://rozyshindra.github.io/rozy-nit-surat/)!
 
 AI/ML Engineer | NLP & Computer Vision | Quantum NLP Researcher  
 Passionate about solving real-world problems using deep learning, generative AI, and quantum computing.
