@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Rozy! 
-[My Portfolio](https://rozyshindra.github.io/rozy-nit-surat/) <a href="https://rozyshindra.github.io/rozy-nit-surat" target="_blank">🌐</a>
+# 👋 Hi, I'm Rozy! [🌐](https://rozyshindra.github.io/rozy-nit-surat)
+[My Portfolio](https://rozyshindra.github.io/rozy-nit-surat) 
 
 
 AI/ML Engineer | NLP & Computer Vision | Quantum NLP Researcher  
