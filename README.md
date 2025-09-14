@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rozy! [🌐](https://rozyshindra.github.io/rozy-nit-surat)
+# 👋 [Hi, I'm Rozy!](https://rozyshindra.github.io/rozy-nit-surat) [🌐](https://rozyshindra.github.io/rozy-nit-surat)
 ### [My Portfolio](https://rozyshindra.github.io/rozy-nit-surat) 
 
 
