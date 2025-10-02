@@ -6,7 +6,7 @@ AI/ML Engineer | NLP & Computer Vision | Quantum NLP Researcher
 Passionate about solving real-world problems using deep learning, generative AI, and quantum computing.
 
 ## Tech Stack
-- **Languages:** Python, C++, SQL
+- **Languages:** Python, Java, C++, SQL
 - **ML/DL:** PyTorch, TensorFlow, scikit-learn
 - **NLP:** HuggingFace Transformers, Spark NLP, Dask, Spacy
 - **CV:** YOLO, OpenCV, ViT (Vision Transformers)
