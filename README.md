@@ -5,6 +5,7 @@
 AI/ML Engineer | NLP & Computer Vision | Quantum NLP Researcher  
 Passionate about solving real-world problems using deep learning, generative AI, and quantum computing.
 
+#### Publication - [Privacy-Preserving Quantum Natural Language Processing for Secure Text Classification](https://ieeexplore.ieee.org/document/11167800)
 ## Tech Stack
 - **Languages:** Python, Java, C++, SQL
 - **ML/DL:** PyTorch, TensorFlow, scikit-learn
